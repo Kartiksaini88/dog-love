@@ -1,0 +1,36 @@
+.home-main-div{
+   
+    width: 400px;
+    height: 560px;
+    text-align: left;
+    margin: auto;
+    margin-top: 50px;
+    overflow-y: scroll;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    
+
+
+}
+::-webkit-scrollbar{
+    display: none;
+  }
+
+.link{
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+
+}
+
+.home-main-div > div{
+  padding-left: 30px;
+  color: black;
+}
+.dog-name{
+    color: black;
+    
+}

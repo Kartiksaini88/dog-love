@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(54, 54, 54);
+    height: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+}
+
+.links > span {
+    padding: 30px;
+    font-size: 25px;
+    color: white;
+    
+}
+
+.Link{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    padding-left: 30px;
+    font-size: 25px;
+}

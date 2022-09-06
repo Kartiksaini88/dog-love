@@ -1,0 +1,33 @@
+.input-and-showdiv{
+    width: 1100px;
+    margin: auto;
+   
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap: 40px;
+    width: 1000px;
+    margin:auto;
+    margin-top: 10px;
+}
+
+input{
+     width: 300px;
+     height: 34px;
+     border: none;
+     margin-left: 400px;
+     margin-top: 20px;
+     border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+     outline: none;
+     text-align: justify;
+}
+
+button{
+    height: 36px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+}
